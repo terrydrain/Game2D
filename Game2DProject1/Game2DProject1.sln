@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{0810571E-0745-8E01-8610-42C3592B0A81}") = "Game2DProject1", "Assembly-CSharp-firstpass.csproj", "{4CEAA5D1-D515-DDF9-6B6F-B3469F8F9F69}"
 EndProject
+Project("{0810571E-0745-8E01-8610-42C3592B0A81}") = "Game2DProject1", "Assembly-CSharp.csproj", "{AD707BF7-6AA8-1FAA-4181-79F2CAF6CCD2}"
+EndProject
 Project("{0810571E-0745-8E01-8610-42C3592B0A81}") = "Game2DProject1", "Assembly-CSharp-Editor.csproj", "{B92A9C69-63E1-98B1-44DB-9F20FA9309E8}"
 EndProject
 Project("{0810571E-0745-8E01-8610-42C3592B0A81}") = "Game2DProject1", "Assembly-UnityScript-firstpass.unityproj", "{A57CF701-2359-DD89-E50D-35A47306DA5F}"
@@ -21,6 +23,10 @@ Global
 		{4CEAA5D1-D515-DDF9-6B6F-B3469F8F9F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CEAA5D1-D515-DDF9-6B6F-B3469F8F9F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CEAA5D1-D515-DDF9-6B6F-B3469F8F9F69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD707BF7-6AA8-1FAA-4181-79F2CAF6CCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD707BF7-6AA8-1FAA-4181-79F2CAF6CCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD707BF7-6AA8-1FAA-4181-79F2CAF6CCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD707BF7-6AA8-1FAA-4181-79F2CAF6CCD2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B92A9C69-63E1-98B1-44DB-9F20FA9309E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B92A9C69-63E1-98B1-44DB-9F20FA9309E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B92A9C69-63E1-98B1-44DB-9F20FA9309E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -41,7 +47,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-			GlobalSection(MonoDevelopProperties) = preSolution
+								GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
